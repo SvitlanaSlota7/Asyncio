@@ -1,0 +1,14 @@
+[
+    {
+        "id": "c1",
+        "created_utc": 1700000000,
+        "body": "Асинхронність — це круто!",
+        "subreddit": "python"
+    },
+    {
+        "id": "c2",
+        "created_utc": 1700000005,
+        "body": "aiohttp працює дуже швидко.",
+        "subreddit": "python"
+    }
+]
